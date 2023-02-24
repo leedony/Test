@@ -1,8 +1,8 @@
-#pI Calculator Instruction
+# pI Calculator Instruction
 
 Isoelectric point (pI) predictor for chemically modified peptides and proteins. Both FASTA and CSV files are allowed.
 
-###Input
+### Input
 A FASTA file contians amino acid sequence
 <img src="https://raw.githubusercontent.com/leedony/Test/main/antibody_FASTA_sample.png" width = "500" height = "250" div/>
 
@@ -16,15 +16,15 @@ The common **CH** and **CL** are provided as follows,
 
         CH = 'ASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSL…………**'
         CL = 'RTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDS…………**'
-###Parameters
-#####Format
+### Parameters
+##### Format
 Choose the right format for your sequences
-#####Complement
+##### Complement
 Choose if need the default **CH** and **CL** to complete VH and VL into **IgG** 
-###Output
+### Output
 A csv file will be generated after processing and it contains the predicted pI values based on **Sillero** and **Nozaki** methods. Both of them show the results that are close to experimental measurements. This is just good for the initial screening.
 
-###Referenece
+### Referenece
 The available pka sets employed are:
 
 <div id="refer-anchor-1"></div>
