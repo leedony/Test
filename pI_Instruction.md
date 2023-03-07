@@ -13,6 +13,18 @@ A organized CSV file contains three columns, including '**ID**', '**VH**', '**VL
 </br>
 ![图片](https://raw.githubusercontent.com/leedony/Test/main/antibody_csv_format.png)
 
+**OR**
+Just input a single sequnence.
+
+### Interface
+For single input:
+</br>
+![](https://raw.githubusercontent.com/leedony/Test/main/single.png)
+For bulk input:
+</br>
+![](https://raw.githubusercontent.com/leedony/Test/main/bulk_input.png)
+
+
 Here, IgG antibodies are highly recommended for more accurate prediciton. 
 The common **CH** and **CL** are provided as follows,
 
