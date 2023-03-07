@@ -20,9 +20,10 @@ Just input a single sequnence.
 For single input:
 </br>
 ![](https://raw.githubusercontent.com/leedony/Test/main/single.png)
+</br>
 For bulk input:
 </br>
-![](https://raw.githubusercontent.com/leedony/Test/main/bulk_input.png)
+![]([https://raw.githubusercontent.com/leedony/Test/main/bulk_input.png](https://raw.githubusercontent.com/leedony/Test/main/bulk%20input.png))
 
 
 Here, IgG antibodies are highly recommended for more accurate prediciton. 
